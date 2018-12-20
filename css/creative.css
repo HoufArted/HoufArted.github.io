@@ -261,7 +261,7 @@ header.masthead p {
   height: 100%;
   text-align: center;
   opacity: 0;
-  color: black;;
+  color: blue;;
   background: rgb(255, 221, 0);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
