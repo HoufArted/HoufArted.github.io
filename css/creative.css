@@ -4,7 +4,7 @@
 }
 
 iframe{
-  border: 4px solid #dadada;
+  border: 4px solid #799298;
 }
 .freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard {
   -webkit-box-shadow: none !important;
@@ -36,17 +36,17 @@ hr {
 }
 
 hr.light {
-  border-color: #fff;
+  border-color: #799298;
 }
 
 a {
-  color: #3dc598;
+  color: #799298;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #3dc598;
+  color: #799298;
 }
 
 h1,
@@ -62,7 +62,7 @@ h2{
   font-weight:700;
 }
 .bg-primary {
-  background-color: #3dc598 !important;
+  background-color: #799298 !important;
 }
 
 .bg-dark {
