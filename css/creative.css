@@ -4,7 +4,7 @@
 }
 
 iframe{
-  border: 4px solid #ffff00;
+  border: 10px solid ##7c7c7c;
 }
 
 .freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard {
@@ -35,15 +35,15 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #799298;
+  border-color: #7c7c7c;
 }
 
 hr.light {
-  border-color: #799298;
+  border-color: #7c7c7c;
 }
 
 a {
-  color: #799298;
+  color: #7c7c7c;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -65,7 +65,7 @@ h2{
   font-weight:700;
 }
 .bg-primary {
-  background-color: #799298 !important;
+  background-color: #7c7c7c !important;
 }
 
 .bg-dark {
@@ -115,7 +115,7 @@ img::-moz-selection {
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #799298;
+  background-color: #7c7c7c;
   font-family: 'B612', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
@@ -328,7 +328,7 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #799298;
+  background-color: #7c7c7c;
   border-color: #ffdd00;
   color: #333;
 }
