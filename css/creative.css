@@ -1,5 +1,5 @@
 .artycontainer {
-    background-color: #ea2c78;
+    background-color: #ff0000;
     padding: 0 22px;
 }
 
@@ -162,10 +162,10 @@ img::-moz-selection {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: #ea2c78;
+    color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #2cabea;
+    color: #fff;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
@@ -179,7 +179,7 @@ img::-moz-selection {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    border-bottom: 1px solid rgba(33, 37, 41, 0.1);
+    border-bottom: 10px solid #ea2c78;
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
