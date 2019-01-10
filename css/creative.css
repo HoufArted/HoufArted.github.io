@@ -179,8 +179,8 @@ img::-moz-selection {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    border-bottom: 10px solid #ea2c78;
-    background-color: #fff;
+    border-bottom: 10px solid #212529;
+    background-color: transparent;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #3dc598;
