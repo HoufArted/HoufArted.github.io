@@ -184,7 +184,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink {
     border-bottom: 1px solid #212529;
-    background-color: #7c7c7c;
+    background-color: #ff0000;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
