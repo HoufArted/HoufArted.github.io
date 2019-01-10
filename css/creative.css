@@ -183,10 +183,10 @@ img::-moz-selection {
     background-color: transparent;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #3dc598;
+    color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #3dc598;
+    color: #212529;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -194,7 +194,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #3dc598;
+    color: #212529;
   }
 }
 
