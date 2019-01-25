@@ -7,6 +7,11 @@ p {
     padding: 0 22px;
 }
 
+.freebirdThemedFlatButtonInverted {
+    background-color: rgb(61, 197, 152);
+    color: rgba(0, 0, 0, 1);
+}
+
 
 iframe{
   border: 10px solid ##7c7c7c;
