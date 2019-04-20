@@ -313,6 +313,9 @@ header.masthead p {
 }
 
 @media (min-width: 768px) {
+  #maintitle{
+   padding-top:60px; 
+  }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 16px;
   }
