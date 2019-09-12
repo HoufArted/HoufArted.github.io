@@ -1,12 +1,40 @@
+img{
+  max-width: 100%;
+}
 p {
   font-family: 'B612', 'Helvetica Neue', Arial, sans-serif;
 }
-
+i.fab{
+  font-size:40px;
+}
 .artycontainer {
     background-color: #ff0000;
     padding: 0 22px;
 }
 
+.bg-primary h2, .bg-primary p, .bg-primary i.fas{
+  color:white;
+}
+.bg-primary li{
+  font-size:22px;
+}
+
+
+.bg-black{
+  background-color:black;
+}
+.bg-black h2, .bg-black figcaption{
+  color:white;
+}
+
+
+.bg-white ul, .bg-white h1, .bg-white h2, .bg-white p{
+color:black;
+}
+
+section.photos{
+  background-color:white;
+}
 .freebirdThemedFlatButtonInverted {
     background-color: rgb(61, 197, 152);
     color: rgba(0, 0, 0, 1);
@@ -14,7 +42,7 @@ p {
 
 
 iframe{
-  border: 10px solid ##7c7c7c;
+  border: none;
 }
 
 .freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard {
@@ -78,9 +106,6 @@ h2{
   background-color: #7c7c7c !important;
 }
 
-.bg-dark {
-  background-color: #7c7c7c !important;
-}
 
 .text-faded {
   color: white;
