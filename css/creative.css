@@ -19,7 +19,26 @@ i.fab{
   font-size:22px;
 }
 
+.fa-file-upload{
+font-size:70px;
+color:black;
+}
 
+.upload-container{
+  background-color:white;
+  padding:20px;
+  border-radius: 10px;
+  border: 8px solid #ff0000;
+}
+
+.upload{
+  font-size:30px;
+  color:black;
+}
+
+a.upload:hover{
+  color:black;
+}
 .bg-black{
   background-color:black;
 }
